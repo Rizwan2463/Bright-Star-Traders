@@ -1,5 +1,5 @@
 body { 
-  background: url('./images/handyman.jpg') no-repeat center center fixed;
+  background: url('./images/office.jpg') no-repeat center center fixed;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -189,8 +189,8 @@ nav {
 
 /* From cssbuttons.io by @adamgiebl */
 .card {
-  width: 190px;
-  height: 254px;
+  width: 290px;
+  height: 354px;
   border-radius: 30px;
   background: #b45aa5;
   box-shadow: 15px 15px 30px #e65959,
